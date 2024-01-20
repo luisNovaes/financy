@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+Path
+seaborn
+datetime
+pytz
+numpy
+altair
+data
+yfinance
+datetime
